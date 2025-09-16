@@ -1,0 +1,4 @@
+- [ ] Add language selection state and UI to voice-mode page
+- [ ] Replace simulated responses in handleVoiceInput with actual Groq API call
+- [ ] Add error handling for API failures
+- [ ] Test the voice integration
